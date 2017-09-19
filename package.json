@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-rung",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Default coding style for Rung.",
   "main": "index.js",
   "author": "Paulo Henrique Cuchi <paulo.cuchi@gmail.com>",
