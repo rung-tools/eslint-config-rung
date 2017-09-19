@@ -16,4 +16,4 @@ Then extend the rules in your `.eslintrc.json` file:
 }
 ```
 
-Take a look at the [source code](https://github.com/bodil/eslint-config-rung/blob/master/index.js).
+Take a look at the [source code](https://github.com/rung-tools/eslint-config-rung/blob/master/index.js).

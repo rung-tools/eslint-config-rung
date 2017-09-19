@@ -11,5 +11,6 @@
   },
   "peerDependencies": {
     "eslint": "^4.7.1"
-  }
+  },
+  "repository": "https://github.com/rung-tools/eslint-config-rung.git"
 }
