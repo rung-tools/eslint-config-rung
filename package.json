@@ -5,7 +5,7 @@
   "main": "index.js",
   "author": "Paulo Henrique Cuchi <paulo.cuchi@gmail.com>",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "eslint-config-xo": "^0.18.2",
     "eslint-plugin-mocha": "^4.11.0"
   },
