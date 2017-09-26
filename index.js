@@ -38,7 +38,9 @@ module.exports = {
         files: 'test/**/*.js',
         globals: {
             before: false,
-            beforeAllf: false,
+            beforeEach: false,
+            after: false,
+            afterEach: false,
             describe: false,
             it: false
         },
