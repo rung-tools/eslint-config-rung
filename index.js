@@ -1,6 +1,12 @@
 module.exports = {
-    extends: 'xo',
-    plugins: ['mocha', 'ramda'],
+    extends: [
+        'xo',
+        'plugin:ramda/recommended'
+    ],
+    plugins: [
+        'mocha',
+        'ramda'
+    ],
     parserOptions: {
         ecmaVersion: 2017,
         sourceType: 'module',
