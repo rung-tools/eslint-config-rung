@@ -1,6 +1,6 @@
 module.exports = {
     extends: 'xo',
-    plugins: ['mocha'],
+    plugins: ['mocha', 'ramda'],
     parserOptions: {
         ecmaVersion: 2017,
         sourceType: 'module',
