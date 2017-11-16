@@ -26,6 +26,7 @@ module.exports = {
             'VariableDeclaration[kind="var"]',
             'VariableDeclaration[kind="let"]'
         ],
+        'semi': ['error', 'never'],
         'capitalized-comments': ['off'],
         'no-useless-escape': ['off'],
         'quotes': ['error', 'single', { allowTemplateLiterals: false }],
