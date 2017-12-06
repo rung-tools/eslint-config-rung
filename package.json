@@ -1,14 +1,14 @@
 {
   "name": "eslint-config-rung",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Default coding style for Rung.",
   "main": "index.js",
   "author": "Paulo Henrique Cuchi <paulo.cuchi@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "eslint-config-xo": "^0.18.2",
-    "eslint-plugin-mocha": "^4.11.0",
-    "eslint-plugin-ramda": "^2.0.0"
+    "eslint-config-xo": "0.18.2",
+    "eslint-plugin-mocha": "4.11.0",
+    "eslint-plugin-ramda": "2.3.0"
   },
   "peerDependencies": {
     "eslint": "^4.7.1"

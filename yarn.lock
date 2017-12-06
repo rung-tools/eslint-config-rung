@@ -8,26 +8,31 @@ create-eslint-index@^1.0.0:
   dependencies:
     lodash.get "^4.3.0"
 
-eslint-config-xo@^0.18.2:
+eslint-config-xo@0.18.2:
   version "0.18.2"
   resolved "https://registry.yarnpkg.com/eslint-config-xo/-/eslint-config-xo-0.18.2.tgz#0a157120875619929e735ffd6b185c41e8a187af"
 
-eslint-plugin-mocha@^4.11.0:
+eslint-plugin-mocha@4.11.0:
   version "4.11.0"
   resolved "https://registry.yarnpkg.com/eslint-plugin-mocha/-/eslint-plugin-mocha-4.11.0.tgz#91193a2f55e20a5e35974054a0089d30198ee578"
   dependencies:
     ramda "^0.24.1"
 
-eslint-plugin-ramda@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-ramda/-/eslint-plugin-ramda-2.0.0.tgz#fa3960ab57c113efb83536f576c9f3b6f087e064"
+eslint-plugin-ramda@2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-ramda/-/eslint-plugin-ramda-2.3.0.tgz#1c047cfa16e28e9d080ec5118bce5da2f635d1b0"
   dependencies:
     create-eslint-index "^1.0.0"
+    ramda "0.25.0"
     req-all "^1.0.0"
 
 lodash.get@^4.3.0:
   version "4.4.2"
   resolved "https://registry.yarnpkg.com/lodash.get/-/lodash.get-4.4.2.tgz#2d177f652fa31e939b4438d5341499dfa3825e99"
+
+ramda@0.25.0:
+  version "0.25.0"
+  resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.25.0.tgz#8fdf68231cffa90bc2f9460390a0cb74a29b29a9"
 
 ramda@^0.24.1:
   version "0.24.1"
