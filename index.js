@@ -24,7 +24,10 @@ module.exports = {
             'WhileStatement',
             'SwitchStatement',
             'VariableDeclaration[kind="var"]',
-            'VariableDeclaration[kind="let"]'
+            'VariableDeclaration[kind="let"]',
+            'WithStatement',
+            'MethodDefinition[kind="get"]',
+            'MethodDefinition[kind="set"]'
         ],
         'semi': ['error', 'never'],
         'capitalized-comments': ['off'],
