@@ -16,6 +16,9 @@ module.exports = {
         node: true,
         es6: true
     },
+    globals: {
+        _: false
+    },
     rules: {
         'indent': ['error', 4, { MemberExpression: 'off' }],
         'no-restricted-syntax': [
